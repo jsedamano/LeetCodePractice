@@ -16,6 +16,8 @@ def solution(inputArray):
             max_product = temp
     return max_product
 
+
+
 # --------------------------------
 # Tests
 def test_solution():

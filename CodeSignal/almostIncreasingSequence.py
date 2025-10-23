@@ -33,6 +33,8 @@ def solution(sequence):
             prev = cur
     return True
 
+
+
 # --------------------------------
 # Tests
 def test_solution():
